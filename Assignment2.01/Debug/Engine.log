@@ -1,0 +1,21 @@
+﻿  ScoringSystem.cpp
+  PlayerController.cpp
+c:\users\pranav s nayak\documents\visual studio 2015\projects\gameengine\engine\playercontroller.cpp(31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Player2Controller.cpp
+c:\users\pranav s nayak\documents\visual studio 2015\projects\gameengine\engine\player2controller.cpp(43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  FileProcessor.cpp
+  Engine.cpp
+  CollisionCheck.cpp
+c:\users\pranav s nayak\documents\visual studio 2015\projects\gameengine\engine\collisioncheck.cpp(29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ActorIni.h
+  Actor.cpp
+  Generating Code...
+  Compiling...
+  Serializer.cpp
+c:\users\pranav s nayak\documents\visual studio 2015\projects\gameengine\engine\serializer.cpp(54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pranav s nayak\documents\visual studio 2015\projects\gameengine\engine\serializer.cpp(84): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  MutexLockInline.h
+ActorIni.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  Engine.vcxproj -> C:\Users\Pranav S Nayak\Documents\Visual Studio 2015\Projects\GameEngine\Assignment2.01\Debug\Engine.lib

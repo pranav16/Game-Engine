@@ -1,0 +1,19 @@
+﻿Engine.lib(Actor.obj) : error LNK2001: unresolved external symbol _lua_pcallk
+Engine.lib(Actor.obj) : error LNK2001: unresolved external symbol _lua_gettable
+Engine.lib(Actor.obj) : error LNK2001: unresolved external symbol _luaL_newstate
+Engine.lib(Actor.obj) : error LNK2001: unresolved external symbol _lua_tolstring
+Engine.lib(Actor.obj) : error LNK2001: unresolved external symbol _luaL_loadbufferx
+Engine.lib(Actor.obj) : error LNK2001: unresolved external symbol _lua_getglobal
+Engine.lib(Actor.obj) : error LNK2001: unresolved external symbol _lua_pushstring
+Engine.lib(Actor.obj) : error LNK2001: unresolved external symbol _lua_tonumberx
+Engine.lib(Actor.obj) : error LNK2001: unresolved external symbol _lua_gettop
+Engine.lib(Actor.obj) : error LNK2001: unresolved external symbol _lua_close
+Engine.lib(Actor.obj) : error LNK2001: unresolved external symbol _lua_settop
+Engine.lib(Actor.obj) : error LNK2001: unresolved external symbol _luaL_openlibs
+Engine.lib(LauHandler.obj) : error LNK2001: unresolved external symbol _lua_type
+Engine.lib(LauHandler.obj) : error LNK2001: unresolved external symbol _lua_tointegerx
+Engine.lib(LauHandler.obj) : error LNK2001: unresolved external symbol _lua_next
+Engine.lib(LauHandler.obj) : error LNK2001: unresolved external symbol _lua_len
+Engine.lib(LauHandler.obj) : error LNK2001: unresolved external symbol _lua_pushnil
+GLibx86_Retail.lib(Device.obj) : error LNK2001: unresolved external symbol _D3D11CreateDevice@40
+C:\Users\Pranav S Nayak\Documents\Visual Studio 2015\Projects\GameEngine\Assignment2.01\Release\Assignment2.01.exe : fatal error LNK1120: 18 unresolved externals
